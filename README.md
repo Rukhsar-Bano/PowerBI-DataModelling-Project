@@ -20,12 +20,12 @@ This Power BI dashboard visualizes a dataset based on product sales, allowing in
 
 ## 📁 Files Included:
 - `Sales_data_project2.pbix`
-- `dashboard1.png`
-- `dashboard2.png`
+- `Dashboard1.png`
+- `Dashboard2.png`
 
 ## 📷 Dashboard Previews:
-![Dashboard 1](dashboard1.png)
-![Dashboard 2](dashboard2.png)
+![Dashboard 1](Dashboard1.png)
+![Dashboard 2](Dashboard2.png)
 
 ---
 
